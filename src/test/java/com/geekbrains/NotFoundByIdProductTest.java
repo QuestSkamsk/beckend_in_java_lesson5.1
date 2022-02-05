@@ -1,9 +1,9 @@
-package retrofittest;
+package com.geekbrains;
 import lombok.SneakyThrows;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import retrofit.DTO.Product;
+import com.geekbrains.DTO.Product;
 import retrofit2.Response;
 import java.io.IOException;
 import static org.hamcrest.MatcherAssert.assertThat;

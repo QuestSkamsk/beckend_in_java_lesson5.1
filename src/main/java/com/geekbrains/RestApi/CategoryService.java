@@ -1,6 +1,6 @@
-package retrofit.RestApi;
+package com.geekbrains.RestApi;
 
-import retrofit.DTO.GetCategoryResponse;
+import com.geekbrains.DTO.GetCategoryResponse;
 import retrofit2.Call;
 import retrofit2.http.GET;
 import retrofit2.http.Path;

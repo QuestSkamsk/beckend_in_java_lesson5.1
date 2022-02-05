@@ -1,4 +1,4 @@
-package retrofit.Utils;
+package com.geekbrains.Utils;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;

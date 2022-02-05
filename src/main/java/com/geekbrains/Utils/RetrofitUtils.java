@@ -1,4 +1,4 @@
-package retrofit.Utils;
+package com.geekbrains.Utils;
 import lombok.experimental.UtilityClass;
 import okhttp3.OkHttpClient;
 import okhttp3.logging.HttpLoggingInterceptor;

@@ -1,4 +1,4 @@
-package retrofit.Enums;
+package com.geekbrains.Enums;
 
 import lombok.Getter;
 

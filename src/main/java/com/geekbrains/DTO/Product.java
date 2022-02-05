@@ -1,4 +1,4 @@
-package retrofit.DTO;
+package com.geekbrains.DTO;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;

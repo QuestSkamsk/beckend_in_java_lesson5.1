@@ -1,13 +1,13 @@
-package retrofittest;
+package com.geekbrains;
 
 import com.github.javafaker.Faker;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
-import retrofit.DTO.Product;
-import retrofit.Enums.CategoryType;
-import retrofit.RestApi.CategoryService;
-import retrofit.RestApi.ProductService;
-import retrofit.Utils.RetrofitUtils;
+import com.geekbrains.DTO.Product;
+import com.geekbrains.Enums.CategoryType;
+import com.geekbrains.RestApi.CategoryService;
+import com.geekbrains.RestApi.ProductService;
+import com.geekbrains.Utils.RetrofitUtils;
 import retrofit2.Retrofit;
 import java.io.IOException;
 

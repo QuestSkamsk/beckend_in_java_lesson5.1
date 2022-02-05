@@ -1,12 +1,12 @@
-package retrofittest;
+package com.geekbrains;
 
 import lombok.SneakyThrows;
 import org.hamcrest.CoreMatchers;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
-import retrofit.DTO.GetCategoryResponse;
-import retrofit.RestApi.CategoryService;
-import retrofit.Utils.RetrofitUtils;
+import com.geekbrains.DTO.GetCategoryResponse;
+import com.geekbrains.RestApi.CategoryService;
+import com.geekbrains.Utils.RetrofitUtils;
 import retrofit2.Response;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.equalTo;

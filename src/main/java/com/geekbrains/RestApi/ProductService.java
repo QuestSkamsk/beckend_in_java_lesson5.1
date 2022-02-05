@@ -1,7 +1,7 @@
-package retrofit.RestApi;
+package com.geekbrains.RestApi;
 
 import okhttp3.ResponseBody;
-import retrofit.DTO.Product;
+import com.geekbrains.DTO.Product;
 import retrofit2.Call;
 import retrofit2.http.*;
 import java.util.ArrayList;

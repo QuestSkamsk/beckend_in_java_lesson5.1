@@ -1,4 +1,4 @@
-package retrofittest;
+package com.geekbrains;
 
 import lombok.SneakyThrows;
 import okhttp3.ResponseBody;
@@ -7,8 +7,8 @@ import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import retrofit.DTO.Product;
-import retrofit.Utils.Logger;
+import com.geekbrains.DTO.Product;
+import com.geekbrains.Utils.Logger;
 import retrofit2.Response;
 import java.io.IOException;
 
